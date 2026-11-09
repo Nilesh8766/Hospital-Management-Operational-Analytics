@@ -64,6 +64,7 @@ DIVIDE(
     DISTINCTCOUNT('Staff_Detail'[Staff_Id]), 
     0
 )
+```
 
 ## 🛠️ Tech Stack & Skills
 * **BI Tool:** Microsoft Power BI Desktop
